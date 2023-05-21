@@ -9,3 +9,11 @@ https://codepen.io/a7rarpress/pen/RweLxvv
 ## DB Design
 https://medium.com/@BalajiSA/whatsapp-system-design-3d8566bb2e6c
 
+
+## Deployed URL
+https://imrahulkumar.github.io/WhatsApp/
+
+
+## For Deployment Run below Command
+npm run deploy
+
