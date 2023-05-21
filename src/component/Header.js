@@ -229,7 +229,7 @@ setTimeout(function () {
 <CallingScreen />
 <VideoCalling />
   <StatusShow />
-  <Chatting />
+  {/* <Chatting /> */}
   <ProfileView />
  {/* <CameraScreen /> */}
  <SearchScreen />

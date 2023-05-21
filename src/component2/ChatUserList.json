@@ -1,0 +1,56 @@
+[{
+    "userName": "Rahul",
+    "image":"https://picsum.photos/200",
+    "message":"I’ll be there.",
+    "time": "12:59",
+    "unseenMsgCount": "1",
+    "isActive": true
+},
+{
+    "userName": "Rahul",
+    "image":"https://picsum.photos/200",
+    "message":"I’ll be there.",
+    "time": "12:59",
+    "unseenMsgCount": "1",
+    "isActive": false
+},
+{
+    "userName": "Rahul",
+    "image":"https://picsum.photos/200",
+    "message":"I’ll be there.",
+    "time": "12:59",
+    "unseenMsgCount": "1",
+    "isActive": false
+},
+{
+    "userName": "Rahul",
+    "image":"https://picsum.photos/200",
+    "message":"I’ll be there.",
+    "time": "12:59",
+     "unseenMsgCount": "1",
+     "isActive": false
+},
+{
+    "userName": "Rahul",
+    "image":"https://picsum.photos/200",
+    "message":"I’ll be there.",
+    "time": "12:59",
+     "unseenMsgCount": "1",
+     "isActive": false
+},
+{
+    "userName": "Rahul",
+    "image":"https://picsum.photos/200",
+    "message":"I’ll be there.",
+    "time": "12:59",
+     "unseenMsgCount": "1",
+     "isActive": false
+},
+{
+    "userName": "Rahul",
+    "image":"https://picsum.photos/200",
+    "message":"I’ll be there.",
+    "time": "12:59",
+     "unseenMsgCount": "1",
+     "isActive": false
+}]

@@ -2,10 +2,10 @@ import React from 'react'
 
 function Chatting() {
   return (
-    <div>  <div style={{ display: "none" }} className="chatting">
+    <div>  <div className="chatting">
     <div className="ar">
       <i className="material-icons arrow-left">arrow_back</i>
-      <img className="topimg" /> <span className="chatname">hii</span>
+      <img className="topimg"  src="https://randomuser.me/api/portraits/men/33.jpg" /> <span className="chatname">Power Ranger</span>
       <span className="online">
         <i className="material-icons dot">fiber_manual_record</i>Online
       </span>
@@ -18,12 +18,11 @@ function Chatting() {
     </div>
     <br />
     <center>
-      {" "}
       <span className="yes">YESTERDAY</span>
     </center>
     <br />
     <div id="rchat">
-      {" "}
+      {"mai hue koan "}
       <span className="rechat" />
       <span className="rtime">yesterday</span>
     </div>
