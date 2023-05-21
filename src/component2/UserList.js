@@ -26,8 +26,6 @@ function UserList(props) {
           </div>
         </div>
   );
-
-
   return (
      <>
      {listItems}

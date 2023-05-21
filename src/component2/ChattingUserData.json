@@ -1,0 +1,59 @@
+{
+    "userDetail": {
+       "userName": "judge dredd",
+       "status": "Online",
+       "image":"https://picsum.photos/200"
+    },
+    "chatting" :[
+        {
+            "userName": "self",
+            "msg": " I've been waiting to see that show asap!",
+            "time": "7:38"
+        },
+         {
+            "userName": "user",
+            "msg": "Ahh, I can't believe you do too!",
+            "time": "7:45"
+        },
+           {
+            "userName": "user",
+            "msg": "The trailer looks good",
+            "time": "7:45"
+        },
+          {
+            "userName": "user",
+            "msg": "I've been waiting to watch it!!",
+            "time": "7:45"
+        },
+           {
+            "userName": "self",
+            "msg": "😐😐😐",
+            "time": "7:45"
+        },
+          {
+            "userName": "self",
+            "msg": " Mee too! 😊",
+            "time": "7:45"
+        },
+         {
+            "userName": "user",
+            "msg": " We should video chat to discuss, if you're up for it!",
+            "time": "7:45"
+        },
+         {
+            "userName": "self",
+            "msg": " Sure",
+            "time": "7:45"
+        },
+         {
+            "userName": "self",
+            "msg": "I'm free now!",
+            "time": "7:45"
+        },
+        {
+            "userName": "user",
+            "msg": "Awesome! I'll start a video chat with you in a few.",
+            "time": "7:45"
+        }
+    ]
+}
