@@ -8,6 +8,7 @@ import Wrapper from './component/Wrapper';
 import Chat from './component/Chat';
 import Call from './component/Call';
 import Status from './component/Status';
+import CameraScreen from './component/CameraScreen';
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
   {
     path: "/",
     element: <Wrapper />,
+   
     children: [
       {
         path: "chat",
@@ -28,6 +30,10 @@ function App() {
         {
         path: "status",
         element: <Status />,
+      },
+      {
+        path: "camera",
+        element: <CameraScreen />,
       },
     ],
   },

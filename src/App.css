@@ -279,7 +279,9 @@ h1 {
 }
 .screen{
   z-index:5;
-  height:100% ;width:100%;display:none;
+  height:100% ;
+  width:100%;
+  display:none;
   overflow-y:auto;
   position: fixed;
 }
@@ -380,7 +382,7 @@ img,
 }
 .call,
 .status {
-  display: none;
+  /* display: none; */
 }
 .cac {
   margin-top: 10px;
